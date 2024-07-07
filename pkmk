@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="hero hero-1">
+                <h2 class="heading">Sigma Shop</h2>
+                <p class="sub-heading">The Sigma</p>
+            </div>
+
+            <div class="hero hero-2">
+                <h2 class="heading">Sigma Shop</h2>
+                <p class="sub-heading">The Sigma</p>
+            </div>
+
+            <div class="features feature-1">
+                <h4 class="price">IDR 300K</h4>
+                <p class="item">Robux</p>
+            </div>
+
+            <div class="features feature-2">
+                <h4 class="price">IDR 200K</h4>
+                <p class="item">Biji</p>
+            </div>
+        </div>
+
+        <nav class="menu">
+
+            <div class="menu-toggle">
+                <input type="checkbox">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+
+            <div class="brand"><h1>Sigma Shop Hub</h1></div>
+
+            <ul class="menu-list">
+                <li><a href="">Home</a></li>
+                <li><a href="">Product</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Gallery</a></li>
+            </ul>
+        </nav>
+
+        <section class="services">
+            <div class="service">
+                <div class="icon">🥵</div>
+                <h3>Sigma Kan</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo odio ab id veritatis.
+                </p>
+            </div>
+
+            <div class="service">
+                <div class="icon">🤑</div>
+                <h3>Coemss</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo odio ab id veritatis.
+                </p>
+            </div>
+
+            <div class="service">
+                <div class="icon">🙀</div>
+                <h3>Horror</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo odio ab id veritatis.
+                </p>
+            </div>
+
+
+            <div class="service">
+                <div class="icon">🍑</div>
+                <h3>Sileits</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo odio ab id veritatis.
+                </p>
+            </div>
+
+
+            <div class="service">
+                <div class="icon">🤓</div>
+                <h3>Belajar</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo odio ab id veritatis.
+                </p>
+            </div>
+        </section>
+
+        <section class="about-us">
+
+            <h1>About us:</h1>
+
+            <div class="card card-1">
+                <div class="img"><img src="images/joni.jpeg"></div>
+
+                <div class="kolom">
+                    <h3 class="nama">Zombos <br>(Office Boy)</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nemo consequatur accusantium fuga.</p>
+                </div>
+            </div>
+            <div class="card card-2">
+                <div class="img"><img src="images/edited 1.jpeg"></div>
+
+                <div class="kolom">
+                    <h3 class="nama">Iqbal <br>(CEO Of Juddy Hops)</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nemo consequatur accusantium fuga.</p>
+                </div>
+            </div>
+
+            <div class="card card-3">
+                <div class="img"><img src="images/ronin.jpeg"></div>
+
+                <div class="kolom">
+                    <h3 class="nama">Adam <br>(Copslay Adam Nih Bos)</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nemo consequatur accusantium fuga.</p>
+                </div>
+            </div>
+
+            <div class="card card-4">
+                <div class="img"><img src="images/billy edited.jpeg"></div>
+
+                <div class="kolom">
+                    <h3 class="nama">Billy <br>(Penipu Ulung)</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nemo consequatur accusantium fuga.</p>
+                </div>
+            </div>
+
+            <div class="card card-5">
+                <div class="img"><img src="images/jawa edited.jpeg"></div>
+
+                <div class="kolom">
+                    <h3 class="nama">Iksnan <br>(Iksnan)</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nemo consequatur accusantium fuga.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="gallery">
+
+            <h2>Gallery</h2>
+
+            <img src="">
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
